@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script>
+            'use strict';
+
+            function pow(x, n) {
+                return x ** n;
+            }
+
+            let number = prompt('Введите число', 0);
+            let degreeOfNumber = prompt('В какую степерь возвести число?', 0);
+
+            if (number < 1) {
+                alert('Невозможно число возвести в степень');
+            } else {
+                alert(pow(number, degreeOfNumber));
+            }
+        </script>
+    </body>
+</html>
