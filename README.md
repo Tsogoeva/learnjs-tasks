@@ -57,14 +57,14 @@ ______________
 _____
 #### Часть 2. Браузер: документ, события, интерфейсы
 ##### Глава 1. Документ
-*  1.3 Навигация по DOM-элементам
-*  1.4 Поиск: getElement*, querySelector*
-*  1.5 Свойства узлов: тип, тег и содержимое
-*  1.6 Атрибуты и свойства
-*  1.7 Изменение документа
-*  1.8 Стили и классы
-*  1.9 Размеры и прокрутка элементов
-*  1.11 Координаты
+*  [1.3 Навигация по DOM-элементам](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.3%20%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20DOM-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC)
+*  [1.4 Поиск: getElement*, querySelector*](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.4%20%D0%9F%D0%BE%D0%B8%D1%81%D0%BA:%20getElement*%2C%20querySelector*)
+*  [1.5 Свойства узлов: тип, тег и содержимое](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.5%20%D0%A1%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D1%83%D0%B7%D0%BB%D0%BE%D0%B2:%20%D1%82%D0%B8%D0%BF%2C%20%D1%82%D0%B5%D0%B3%20%D0%B8%20%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
+*  [1.6 Атрибуты и свойства](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.6%20%D0%90%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D1%8B%20%D0%B8%20%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0)
+*  [1.7 Изменение документа](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.7%20%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0)
+*  [1.8 Стили и классы](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.8%20%D0%A1%D1%82%D0%B8%D0%BB%D0%B8%20%D0%B8%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B)
+*  [1.9 Размеры и прокрутка элементов](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.9%20%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D1%8B%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%BA%D1%80%D1%83%D1%82%D0%BA%D0%B0%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
+*  [1.11 Координаты](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.11%20%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D1%8B)
 
 ##### Глава 2. Введение в события
 *  2.1 Введение в браузерные события
