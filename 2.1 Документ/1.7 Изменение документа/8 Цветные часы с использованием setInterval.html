@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+
+<body>
+	<div>
+		<span class="hour" style="color: red;">hour</span>:<span class="minute" style="color: blue;">minute</span>:<span
+			class="second" style="color: green;">second</span>
+	</div>
+
+	<input type="button" onclick="clockStart()" value="Старт">
+	<input type="button" onclick="clockStop()" value="Стоп">
+
+	<script>
+		function makeClock() {
+			let date = new Date();
+
+			let hour = date.getHours() >= 10 ? date.getHours() : `0${date.getHours()}`;
+			let minute = date.getMinutes() >= 10 ? date.getMinutes() : `0${date.getMinutes()}`;
+			let second = date.getSeconds() >= 10 ? date.getSeconds() : `0${date.getSeconds()}`;
+
+			let hourSubStr = document.querySelector('.hour');
+			hourSubStr.textContent = hour;
+
+			let minuteSubStr = document.querySelector('.minute');
+			minuteSubStr.textContent = minute;
+
+			let secondSubStr = document.querySelector('.second');
+			secondSubStr.textContent = second;
+
+		}
+
+		let timer;
+
+		function clockStart() {
+			timer = setInterval(makeClock, 1000);
+			makeClock();
+		}
+
+		function clockStop() {
+			clearInterval(timer);
+			timer = null;
+		}
+
+	</script>
+</body>
+
+</html>
