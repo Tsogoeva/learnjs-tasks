@@ -67,9 +67,9 @@ _____
 *  [1.11 Координаты](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.1%20%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82/1.11%20%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D1%8B)
 
 ##### Глава 2. Введение в события
-*  2.1 Введение в браузерные события
-*  2.3 Делегирование событий
-*  2.4 Действия браузера по умолчанию
+*  2.1 [Введение в браузерные события](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.2%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/2.1%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+*  2.3 [Делегирование событий](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.2%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/2.3%20%D0%94%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9)
+*  2.4 [Действия браузера по умолчанию](https://github.com/Tsogoeva/learnjs-tasks/tree/main/2.2%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F/2.4%20%D0%94%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E)
 
 ##### Глава 4. Формы, элементы управления
 *  4.1 Свойства и методы формы
