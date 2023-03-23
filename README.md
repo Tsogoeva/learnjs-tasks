@@ -54,23 +54,23 @@ ______________
 *  [8.4 Методы прототипов, объекты без свойства __proto__](https://github.com/Tsogoeva/learnjs-tasks/tree/main/8%20%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D1%8B%2C%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/8.4%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%20%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%2C%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B1%D0%B5%D0%B7%20%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20__proto__)
 
 ##### Глава 9. Классы
-*  [9.1 Класс: базовый синтаксис]()
-*  [9.2 Наследование классов]()
-*  [9.3 Статические свойства и методы]()
-*  [9.6 Проверка класса: "instanceof"]()
+*  [9.1 Класс: базовый синтаксис](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.9%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B/9.1%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81:%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81)
+*  [9.2 Наследование классов](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.9%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B/9.2%20%D0%9D%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2)
+*  [9.3 Статические свойства и методы](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.9%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B/9.3%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%20%D0%B8%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B)
+*  [9.6 Проверка класса: "instanceof"](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.9%20%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B/9.6%20%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0:%20%22instanceof%22)
 
 ##### Глава 10. Обработка ошибок
-*  [10.1 Обработка ошибок, "try..catch"]()
-*  [10.2 Пользовательские ошибки, расширение Error]()
+*  [10.1 Обработка ошибок, "try..catch"](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.10%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA/10.1%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA%2C%20%22try..catch%22)
+*  [10.2 Пользовательские ошибки, расширение Error](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.10%20%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA/10.2%20%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8%2C%20%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5%20Error)
 
 ##### Глава 11. Промисы, async/await
-*  [11.2 Промисы]()
-*  [11.3 Цепочка промисов]()
-*  [11.4 Промисы: обработка ошибок]()
-*  [11.8 Async/await]()
+*  [11.2 Промисы](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.11%20%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%8B%2C%20async%20await/11.2%20%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%8B)
+*  [11.3 Цепочка промисов](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.11%20%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%8B%2C%20async%20await/11.3%20%D0%A6%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D0%BE%D0%B2)
+*  [11.4 Промисы: обработка ошибок](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.11%20%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%8B%2C%20async%20await/11.4%20%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%8B:%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA)
+*  [11.8 Async/await](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.11%20%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%8B%2C%20async%20await/11.8%20Async%20await)
 
 ##### Глава 12. Генераторы, продвинутая итерация
-*  [12.1 Генераторы]()
+*  [12.1 Генераторы](https://github.com/Tsogoeva/learnjs-tasks/tree/main/1.12%20%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%2C%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%B0%D1%8F%20%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F/12.1%20%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B)
 
 _____
 #### Часть 2. Браузер: документ, события, интерфейсы
